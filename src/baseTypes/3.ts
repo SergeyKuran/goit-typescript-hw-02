@@ -1,4 +1,4 @@
-let some:unknown;
+let some: unknown;
 some = 'Text';
 
 if (typeof some === 'string') {
@@ -6,4 +6,4 @@ if (typeof some === 'string') {
     str = some;
 }
 
-export {};
+export { };
