@@ -7,11 +7,11 @@ let union;
 let literal;
 
 if (typeof union === 'string') {
-console.log('This is type "string"');
+  console.log('This is type "string"');
 }
 console.log('This is type "number"');
 
-if ( literal === 'enable') {
-console.log('This is "enable"');
+if (literal === 'enable') {
+  console.log('This is "enable"');
 }
 console.log('This is "disable"');
