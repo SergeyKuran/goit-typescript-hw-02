@@ -8,6 +8,7 @@ export enum UserRole {
   editor = 'editor',
   guest = 'guest',
 }
+
 type RecordType = Record<string, string>
 
 // Замініть наступний код на версію за допомогою Record
